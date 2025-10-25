@@ -1,2 +1,3 @@
-# first-task
-This is my first Git Repository
+#project1.git
+This is my first Git Repository.
+author:ritik kumar
